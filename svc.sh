@@ -1,5 +1,5 @@
-i#!/bin/sh
-SERVICE_NAME=html-2-pdf
+#!/bin/sh
+SERVICE_NAME=html-to-pdf
 PID_PATH_NAME=/tmp/$SERVICE_NAME-pid
 
 function bootstrap {
